@@ -1,5 +1,9 @@
 .about {
-    background-color: beige;
+    background-color: bisque;
     font-size: 5cm;
     font-style: italic;
-}
+    border-width: 5px;
+    border-color: black;
+    border-left: 0cap;
+    border-right: 0cap;
+}   

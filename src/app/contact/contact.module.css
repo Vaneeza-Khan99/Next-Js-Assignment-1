@@ -1,7 +1,11 @@
 .contact {
-    background-color: cornflowerblue;
+    background-color: bisque;
     font-size: 4cm;
     padding-left: 1ch;
     padding-right: 1ch;
     font-style: italic;
+    border-width: 5px;
+    border-color: black;
+    border-left: 0cap;
+    border-right: 0cap;
 }
